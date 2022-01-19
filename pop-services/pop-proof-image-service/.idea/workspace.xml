@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1051b1cd-bfb3-4854-8edc-7f9495a5013d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../pop-client-js/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pop-contracts/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pop-node/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pop-consensus-service/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pop-fingerprint-service/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pop-reward-service/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pop-role-anchor-service/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pop-role-claimer-service/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pop-role-verifier-service/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pop-tasks-service/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pop-worlds-bridge-service/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pop-worlds-protocol-service/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pop-worlds-service/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pop-anchor-service/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pop-role-anchor-service/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pop-anchor-service/bin/www" beforeDir="false" afterPath="$PROJECT_DIR$/../pop-role-anchor-service/bin/www" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pop-anchor-service/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../pop-role-anchor-service/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pop-anchor-service/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../pop-role-anchor-service/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pop-anchor-service/public/stylesheets/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pop-role-anchor-service/public/stylesheets/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pop-anchor-service/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pop-role-anchor-service/routes/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pop-anchor-service/routes/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pop-role-anchor-service/routes/users.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pop-anchor-service/views/error.pug" beforeDir="false" afterPath="$PROJECT_DIR$/../pop-role-anchor-service/views/error.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pop-anchor-service/views/index.pug" beforeDir="false" afterPath="$PROJECT_DIR$/../pop-role-anchor-service/views/index.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pop-anchor-service/views/layout.pug" beforeDir="false" afterPath="$PROJECT_DIR$/../pop-role-anchor-service/views/layout.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pop-claimer-service/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pop-role-claimer-service/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pop-claimer-service/bin/www" beforeDir="false" afterPath="$PROJECT_DIR$/../pop-role-claimer-service/bin/www" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pop-claimer-service/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../pop-role-claimer-service/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pop-claimer-service/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../pop-role-claimer-service/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pop-claimer-service/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pop-role-claimer-service/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pop-claimer-service/public/stylesheets/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pop-role-claimer-service/public/stylesheets/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pop-claimer-service/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pop-role-claimer-service/routes/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pop-claimer-service/routes/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pop-role-claimer-service/routes/users.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pop-protocol-worlds-service/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pop-worlds-protocol-service/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pop-protocol-worlds-service/bin/www" beforeDir="false" afterPath="$PROJECT_DIR$/../pop-worlds-protocol-service/bin/www" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pop-protocol-worlds-service/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../pop-worlds-protocol-service/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pop-protocol-worlds-service/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../pop-worlds-protocol-service/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pop-protocol-worlds-service/public/stylesheets/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pop-worlds-protocol-service/public/stylesheets/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pop-protocol-worlds-service/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pop-worlds-protocol-service/routes/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pop-protocol-worlds-service/routes/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pop-worlds-protocol-service/routes/users.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pop-protocol-worlds-service/views/error.pug" beforeDir="false" afterPath="$PROJECT_DIR$/../pop-worlds-protocol-service/views/error.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pop-protocol-worlds-service/views/index.pug" beforeDir="false" afterPath="$PROJECT_DIR$/../pop-worlds-protocol-service/views/index.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pop-protocol-worlds-service/views/layout.pug" beforeDir="false" afterPath="$PROJECT_DIR$/../pop-worlds-protocol-service/views/layout.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pop-proxy-reencrypt-service/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../pop-proxy-reencrypt-service/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="23uG7vg6OtmEo4loWO0dkq2yH08" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1051b1cd-bfb3-4854-8edc-7f9495a5013d" name="Changes" comment="" />
+      <created>1642576395347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642576395347</updated>
+      <workItem from="1642576397305" duration="84000" />
+    </task>
+    <servers />
+  </component>
+</project>
