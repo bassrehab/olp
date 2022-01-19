@@ -1,0 +1,1 @@
+cross location translation and communication protocol between Google Maps, Bing Maps, Open Street Maps and Metaverse entities e.g., Decentraland.

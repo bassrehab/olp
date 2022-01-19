@@ -1,0 +1,1 @@
+Rewards for verifier nodes.
