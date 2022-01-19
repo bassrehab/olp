@@ -1,7 +1,4 @@
 require("@nomiclabs/hardhat-waffle");
-
-// This is a sample Hardhat task. To learn how to create your own go to
-// https://hardhat.org/guides/create-task.html
 task("accounts", "Prints the list of accounts", async () => {
   const accounts = await ethers.getSigners();
 
@@ -24,7 +21,7 @@ module.exports = {
     ganache: {
       url: "http://127.0.0.1:7545",
       accounts: {
-        mnemonic: "symptom bean awful husband dice accident crush tank sun notice club creek",
+        mnemonic: "truth what end ten path differ illness banana rapid turkey right mango cabbage drum rose",
       },
       // chainId: 1234,
     }
