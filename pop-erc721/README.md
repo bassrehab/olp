@@ -1,0 +1,1 @@
+associate an optional NFT with the PoP Operation
