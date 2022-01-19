@@ -1,0 +1,12 @@
+{
+    "network": "ganache",
+    "contract_address": "SET_CONTRACT_ADDRESS",
+    "owner_address": "SET_OWNER_ADDRESS",
+    "owner_mnemonic": "game cloth depth water spread start swing prison shift chief you file tooth attract high",
+    "contract": {
+        "name": "PoP20",
+        "ticker": "POP20",
+        "decimals": 18
+    },
+    "provider": "http://localhost:7545"
+}

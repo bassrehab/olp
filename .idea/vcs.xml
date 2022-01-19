@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pop-erc20/erc20-starter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pop-erc20/src" vcs="Git" />
   </component>
 </project>
