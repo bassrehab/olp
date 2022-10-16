@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/TranBaVinhSon/microservice_nodejs_template#readme",
   "devDependencies": {
-    "lerna": "^3.19.0"
+    "lerna": "^6.0.1"
   },
   "dependencies": {
     "typescript": "^3.7.2"

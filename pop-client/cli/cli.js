@@ -61,7 +61,7 @@ async function startAsync () {
       .option('s', {
         alias: 'server',
         requiresArg: true,
-        default: env.CHAINPOINT_NODE_API_BASE_URI,
+        default: env.POP_NODE_API_BASE_URI,
         description: 'specify server to use',
         type: 'string'
       })

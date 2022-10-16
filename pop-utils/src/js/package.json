@@ -1,0 +1,17 @@
+{
+  "name": "pop-utils-js",
+  "version": "1.0.0",
+  "description": "collections of util functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "olp",
+    "open-location-protocol",
+    "proof-of-presence",
+    "golocateme"
+  ],
+  "author": "subhadip_mitra@hotmail.com",
+  "license": "ISC"
+}

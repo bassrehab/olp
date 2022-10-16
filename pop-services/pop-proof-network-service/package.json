@@ -1,0 +1,16 @@
+{
+  "name": "pop-proof-network-service",
+  "version": "1.0.0",
+  "description": "foundation network service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "proof-of-presence",
+    "golocateme",
+    "olp"
+  ],
+  "author": "subhadip_mitra@hotmail.com",
+  "license": "ISC"
+}

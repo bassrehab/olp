@@ -1,0 +1,19 @@
+{
+  "name": "pop-shared-lib",
+  "version": "1.0.0",
+  "description": "set of shared libraries and plugins that are used throughout the POP/Open Location Proof services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "golocateme",
+    "open",
+    "location",
+    "protocol",
+    "proof",
+    "of",
+    "presence"
+  ],
+  "author": "subhadip_mitra@hotmail.com"
+}
